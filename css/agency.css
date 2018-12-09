@@ -24,7 +24,8 @@ a:hover {
 .text-primary {
   /* color: #fed136 !important; */
   /* color: #f9690e !important; */
-  color: #e15f41 !important;
+  /* color: #e15f41 !important; */
+  color: #cf4f5a !important;
 }
 
 h1,
@@ -133,7 +134,7 @@ img::-moz-selection {
   color: white;
   /* border: 0; */
   /* background-color: #f9690e; */
-  
+
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
