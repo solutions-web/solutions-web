@@ -24,8 +24,8 @@ a:hover {
 .text-primary {
   /* color: #fed136 !important; */
   /* color: #f9690e !important; */
-  /* color: #e15f41 !important; */
-  color: #cf4f5a !important;
+  color: #e15f41 !important;
+  /* color: #cf4f5a !important; */
 }
 
 h1,
@@ -151,7 +151,8 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  /* color: #fec503; */
+  color: #e15f41;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -166,7 +167,8 @@ img::-moz-selection {
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   /* color: #f9690e; */
   /* color: #c44569; */
-  color: #fed69e;
+  /* color: #fed69e; */
+  color: #e15f41;
 }
 
 @media (min-width: 992px) {
@@ -201,7 +203,7 @@ header.masthead {
   text-align: center;
   color: white;
   /* background-image: url("../img/header.jpg"); */
-  background-image: linear-gradient(to bottom right, #e15f41, #c44569);
+  background-image: linear-gradient(to bottom right, #c44569, #e15f41);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
